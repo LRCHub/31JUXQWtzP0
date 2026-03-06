@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Intro",
+  "base_artist": "999dobby",
+  "createdAt": "2026-03-06T13:59:57.244822Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arthas, My Son (Cinematic Intro)",
+      "artist": "Neal Acree feat. Jason Hayes",
+      "has_synced": false,
+      "path": "select/01_Arthas,_My_Son_(Cinematic_Intro)_Neal_Acree_feat._Jason_Hayes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Arthas, My Son (Cinematic Intro)",
+      "artist": "Jason Hayes/Neal Acree",
+      "has_synced": false,
+      "path": "select/02_Arthas,_My_Son_(Cinematic_Intro)_Jason_Hayes_Neal_Acree.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Intro",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/03_Intro_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Intro",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/04_Intro_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Wave (Intro)",
+      "artist": "Keith Urban",
+      "has_synced": false,
+      "path": "select/05_My_Wave_(Intro)_Keith_Urban.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Party for Two (Country Version With Intro)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/06_Party_for_Two_(Country_Version_With_Intro)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Then They Do (With String Intro)",
+      "artist": "Trace Adkins",
+      "has_synced": false,
+      "path": "select/07_Then_They_Do_(With_String_Intro)_Trace_Adkins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "...So Addictive Intro (feat. Charlene \"Tweet\" Keys",
+      "artist": "Missy Elliott feat. Charlene \"tweet\" Keys",
+      "has_synced": true,
+      "path": "select/08_...So_Addictive_Intro_(feat._Charlene__Tweet__Keys_Missy_Elliott_feat._Charlene__tweet__Keys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "...So Addictive (Intro) (Ft. Charlene \"Tweet\" Keys)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/09_...So_Addictive_(Intro)_(Ft._Charlene__Tweet__Keys)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Girl Interlude / Intro",
+      "artist": "Missy Elliott feat. Mary J. Blige",
+      "has_synced": true,
+      "path": "select/10_Baby_Girl_Interlude___Intro_Missy_Elliott_feat._Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby Girl Interlude\u0000Intro (feat. Mary J. Blige)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/11_Baby_Girl_Interlude\u0000Intro_(feat._Mary_J._Blige)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bomb Intro/Pass That Dutch",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/12_Bomb_Intro_Pass_That_Dutch_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bomb Intro\u0000Pass That Dutch",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/13_Bomb_Intro\u0000Pass_That_Dutch_Missy_Elliott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Intro",
+      "artist": "999dobby",
+      "has_synced": false,
+      "path": "select/pl_01_Intro_999dobby.txt"
+    }
+  ]
+}
